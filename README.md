@@ -1,4 +1,3 @@
-<div align="center">
 
 # Awesome Tailwind Animations
 
@@ -65,4 +64,3 @@ Here are some simple examples of how to use this plugin and its animations:
   <img src="https://contrib.rocks/image?repo=midudev/tailwind-animations" />
 </a>
 
-</div>
